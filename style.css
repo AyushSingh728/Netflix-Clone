@@ -14,7 +14,7 @@ body {
 }
 
 .main {
-    background-image: url("images/bg.jpeg");
+    background-image: url("bg.jpeg");
     height: 100vh;
     position: relative;
     background-position: center center;
@@ -432,4 +432,5 @@ footer {
 }
 .ending a{
         color: rgb(68, 142, 244);
+
 }
