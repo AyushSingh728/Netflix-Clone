@@ -187,43 +187,43 @@ input::placeholder {
 }
 
 .num1 {
-    background-image: url("Trending now/st.webp");
+    background-image: url("st.webp");
 }
 
 .num2 {
-    background-image: url("Trending now/wwe.webp");
+    background-image: url("wwe.webp");
 }
 
 .num3 {
-    background-image: url("Trending now/dude.webp");
+    background-image: url("dude.webp");
 }
 
 .num4 {
-    background-image: url("Trending now/jllb.webp");
+    background-image: url("jllb.webp");
 }
 
 .num5 {
-    background-image: url("Trending now/og.webp");
+    background-image: url("og.webp");
 }
 
 .num6 {
-    background-image: url("Trending now/dc.webp");
+    background-image: url("dc.webp");
 }
 
 .num7 {
-    background-image: url("Trending now/idli.webp");
+    background-image: url("idli.webp");
 }
 
 .num8 {
-    background-image: url("Trending now/kshetra.webp");
+    background-image: url("kshetra.webp");
 }
 
 .num9 {
-    background-image: url("Trending now/bison.webp");
+    background-image: url("bison.webp");
 }
 
 .num10 {
-    background-image: url("Trending now/saiyaara.webp");
+    background-image: url("saiyaara.webp");
 }
 
 
@@ -434,3 +434,4 @@ footer {
         color: rgb(68, 142, 244);
 
 }
+
